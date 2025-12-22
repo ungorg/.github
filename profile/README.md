@@ -10,4 +10,6 @@ if you’d like to be part of it, reach out. <3
 
 reach me (elisiei) via email at `yehorovye(at)disroot(dot)org`.
 
-join our [discord server](https://discord.gg/h35cWb4yMk).
+~~join our [discord server](https://discord.gg/h35cWb4yMk).~~
+
+i got banned from discord lol cucks. contact me through matrix: `@elisiei:envs.net` or the [new space](https://matrix.to/#/#ungo-nxtgo:envs.net)
