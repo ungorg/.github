@@ -1,6 +1,6 @@
 # formerly "nxtgo"!
 
-# we moved our org, we are not at [codeberg.org/ungo](https://codeberg.org/ungo)
+# we moved our org, we are now at [codeberg.org/ungo](https://codeberg.org/ungo)
 
 this org will be used for mirrors.
 
